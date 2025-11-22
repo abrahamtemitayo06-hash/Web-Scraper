@@ -28,3 +28,6 @@ python Web_scraper.py
 
 ## Learning Goal
 To understand Python, web scraping, and automation concepts, while documenting the learning process and experimenting with real code.
+## Changelog
+- v0.1: Initial learning project with Web_scraper.py
+- v0.2: Organized files into scripts/ and data/ folders
